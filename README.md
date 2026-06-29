@@ -1,0 +1,1 @@
+# CU-abc123_chrome_ext_v2
